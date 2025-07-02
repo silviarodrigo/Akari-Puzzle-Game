@@ -1,7 +1,7 @@
 # Akari - A "Light Up" Puzzle Game
-  # Description
 This project is a console-based implementation of the famous logic puzzle game **Akari** (also known as "Light Up"). It was developed as a project for a first-year university programming course.
 
+  # How to play
 The objective of Akari is to illuminate every white square in a grid by placing light bulbs. The rules are simple:
 - A light bulb illuminates all squares in its row and column, unless its light is blocked by a black cell.
 - No light bulb can be placed on a black cell.
